@@ -14,20 +14,20 @@ This is a work in progress project. New features are being added. Contributions 
 
 ## Extensions
 
-• String
+- String
 
 ## Protocols
 
-• Decoder
+- Decoder
 
 ## Types
 
-• AsyncOperation
-• Bindable
-• Cacher
-• FileRepresentation
-• Logger
-• Manager
+- AsyncOperation
+- Bindable
+- Cacher
+- FileRepresentation
+- Logger
+- Manager
 
 ## License
 
