@@ -12,6 +12,23 @@ This is a work in progress project. New features are being added. Contributions 
 2. Search for the following url: https://github.com/persiogv/Core
 3. Add `import Core` in your Swift file
 
+## Extensions
+
+• String
+
+## Protocols
+
+• Decoder
+
+## Types
+
+• AsyncOperation
+• Bindable
+• Cacher
+• FileRepresentation
+• Logger
+• Manager
+
 ## License
 
 The MIT License (MIT)
