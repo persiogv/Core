@@ -1,6 +1,6 @@
 //
 //  Decoder.swift
-//  
+//  Core
 //
 //  Created by Pérsio on 20/04/20.
 //
