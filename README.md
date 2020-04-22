@@ -25,6 +25,7 @@ This is a work in progress project. New features are being added. Contributions 
 - AsyncOperation
 - Bindable
 - Cacher
+- FileClient
 - FileRepresentation
 - Logger
 - Manager
