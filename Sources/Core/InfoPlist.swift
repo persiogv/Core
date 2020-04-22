@@ -11,7 +11,7 @@ public struct InfoPlist: Codable {
 
     // MARK: Coding Keys
 
-    enum CodingKeys: String, CodingKey {
+    private enum CodingKeys: String, CodingKey {
         case serverUrl = "Server URL"
         case developmentLanguage = "CFBundleDevelopmentRegion"
         case bundleIdentifier = "CFBundleIdentifier"
