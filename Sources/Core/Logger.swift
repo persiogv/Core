@@ -2,7 +2,7 @@
 //  Logger.swift
 //  Core
 //
-//  Created by Pérsio on 31/07/18.
+//  Created by Pérsio on 18/04/20.
 //
 
 import Foundation
