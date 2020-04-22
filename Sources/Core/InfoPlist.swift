@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct InfoPList: Codable {
+public struct InfoPlist: Codable {
 
     // MARK: Coding Keys
 
