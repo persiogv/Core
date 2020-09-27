@@ -52,6 +52,7 @@ public final class Cacher {
     ///   - value: The value to be cached
     ///   - key: A key to identify the value
     /// - Returns: A copy of the cached value
+    @discardableResult
     public final func cacheValue<T>(_ value: T, toKey key: String, expires: ExpireOptions = .never) -> T? {
         defineExpiration(key: key, expires: expires)
         
