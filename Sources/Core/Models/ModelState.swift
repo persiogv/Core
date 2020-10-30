@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum ModelState<Model> {
+public enum ModelState<Model> {
     case none
     case loading
     case finished(Model)
