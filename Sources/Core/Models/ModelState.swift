@@ -1,6 +1,6 @@
 //
 //  ModelState.swift
-//  
+//  Core
 //
 //  Created by Pérsio on 30/10/20.
 //
