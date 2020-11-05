@@ -13,7 +13,7 @@ public enum ModelState<Model> {
     case finished(Model)
     case failed
     
-    var value: Model? {
+    public var value: Model? {
         switch self {
         case .finished(let model):
             return model
